@@ -4,8 +4,8 @@ In my frontend career its my first project that i have made for my softare house
 
 Welcome to the USAA Card HTML/CSS project repository! This project showcases a responsive landing page for a special member offer using HTML and CSS.
 
-![Project Preview](Image.png)
-![Project Preview](imageMb.png)
+![Project Preview](./images/Image.jpg)
+![Project Preview](./images/imageMb.jpg)
 
 ## Table of Contents
 
