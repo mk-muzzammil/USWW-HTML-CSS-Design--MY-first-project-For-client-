@@ -32,9 +32,6 @@ This project features a responsive landing page design for a special member offe
 - Call to action with a "Start Saving" button.
 - Footer with additional information and links.
 
-## Preview
-
-![Project Preview](preview.png)
 
 ## Getting Started
 
